@@ -155,7 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Hamidou TESSILIMI - [Github](https://github.com/blacky-yg) / [Twitter](https://twitter.com/blacky_yg)  
-ZOHOUNGBOGBO Anlyou - [Github](https://github.com/tiffan-source) / [Twitter](https://twitter.com/anlzyzou)
 
 ## License
 Public Domain. No copy write protection. 
